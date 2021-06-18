@@ -1,5 +1,5 @@
 # 2021Summer-GDP-II-Projects
-This repository consists of all the GDP-II project submissions of Fall-2020, by MS-ACS students at Northwest.
+This repository consists of all the GDP-II project submissions of Summer-2021, by MS-ACS students at Northwest.
 
 ## Please follow the below steps to have your project uploaded to this repository by MS-ACS office.  
 
@@ -14,7 +14,7 @@ Fill and submit the google form by clicking on link below.
 * After submitting the google form, please notify to the MS-ACS office at [msacs@nwmissouri.edu].
 * Copy all the team members and the program coordinator Dr. Ajay Bandi in email. 
 * The subject of email should be: (TeamName + "Google form submitted with repository link for GDP project submission"). 
-* The MS-ACS office will download your repository and upload the zip file to the 2020Fall-GDP-II-Projects repository.
+* The MS-ACS office will download your repository and upload the zip file to the 2021Summer-GDP-II-Projects repository.
 
 ### Step-4:
 Once the MS-ACS office has uploaded your project to this repository, they would reply to your email. Please take that email as a confirmation and submit your "Project Completion Form" to the program coordinator Dr. Ajay Bandi.
